@@ -1,0 +1,12 @@
+C:\DOProjects\devopsweb\publish\devopsweb.exe
+C:\DOProjects\devopsweb\publish\Publish\web.config
+C:\DOProjects\devopsweb\publish\appsettings.Development.json
+C:\DOProjects\devopsweb\publish\appsettings.json
+C:\DOProjects\devopsweb\publish\Publish\appsettings.Development.json
+C:\DOProjects\devopsweb\publish\Publish\appsettings.json
+C:\DOProjects\devopsweb\publish\Publish\devopsweb.deps.json
+C:\DOProjects\devopsweb\publish\Publish\devopsweb.runtimeconfig.json
+C:\DOProjects\devopsweb\publish\devopsweb.dll
+C:\DOProjects\devopsweb\publish\devopsweb.deps.json
+C:\DOProjects\devopsweb\publish\devopsweb.runtimeconfig.json
+C:\DOProjects\devopsweb\publish\devopsweb.pdb
